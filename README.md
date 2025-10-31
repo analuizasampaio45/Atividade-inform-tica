@@ -16,3 +16,5 @@ Uso de formulas: PROCV
 <img width="771" height="390" alt="image" src="https://github.com/user-attachments/assets/34ec861c-3432-44cb-ac5c-e3b1ca411aca" />
 
 ## Atividade 4: Interpretação de dados do PowerBI
+
+## Atividade 5: Dashboard com dados Comex 2025 exportação

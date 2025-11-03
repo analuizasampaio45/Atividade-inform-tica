@@ -12,6 +12,8 @@ Foi usada a fórmula =CONT.SE para contar quando um requisito foi atendido, e a 
 
 <img width="552" height="249" alt="image" src="https://github.com/user-attachments/assets/edcab318-0211-457d-b329-5ab627be4ae9" />
 
+<https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20252/Student%20Work/Working%20files/ANA%20LUIZA%20SAMPAIO%20DE%20MORAES/Dados%20abertos%20em%20formato%20de%20planilhas_%20visual/Ativ%20de%20informatica%20Restaurantes.xlsx?d=w51c6c98bb20e44fb872aa7cfd4a4f94e&csf=1&web=1&e=GLRkQi> 
+
 
 ## Atividade 3: Plano de Produtos e Exportações dados Comex Stat via Microsoft Excel
 Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em uma tabela e de outra coluna. Muito útil para organizar informações em planilhas.

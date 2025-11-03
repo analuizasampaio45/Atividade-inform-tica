@@ -2,6 +2,8 @@
 Trabalhos / Atividades Disciplina informática aplicada 
 ## Atividade 1: Apresentação em equipe no Canva 
 
+Nesta apresentação, fizemos uma breve explicação sobre nossa vida pessoal para que a turma pudesse se conhecer melhor. Também compartilhamos nossas estratégias para o futuro, os motivos que nos levaram a escolher o curso de Logística na FATEC e como pretendemos nos desenvolver profissional e academicamente ao longo da formação.
+
 <img width="1184" height="672" alt="image" src="https://github.com/user-attachments/assets/f3e0ff39-f283-4b4a-9cf2-ed0f2b5bd26e" />
 
 

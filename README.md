@@ -20,6 +20,7 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 
 <<img width="1618" height="515" alt="image" src="https://github.com/user-attachments/assets/2eb36c66-9de2-405c-8baf-ba0a60b1c02e" />
 
+<https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_moraes47_fatec_sp_gov_br/Documents/Inform%C3%A1tica%20Log.1/restaurante.xlsx?d=w39126d3b4cc74e4fbde1dd0234526920&csf=1&web=1&e=0Isubs>
 
 ## Atividade 4: Interpretação de dados do PowerBI
 

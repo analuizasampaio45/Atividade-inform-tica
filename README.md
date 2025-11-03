@@ -14,7 +14,7 @@ Foi usada a fórmula =CONT.SE para contar quando um requisito foi atendido, e a 
 
 
 ## Atividade 3: Plano de Produtos e Exportações dados Comex Stat via Microsoft Excel
-Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em uma tabela e de outra coluna. Muito útil para organizar e cruzar informações em planilhas.
+Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em uma tabela e de outra coluna. Muito útil para organizar informações em planilhas.
 
 <img width="771" height="390" alt="image" src="https://github.com/user-attachments/assets/34ec861c-3432-44cb-ac5c-e3b1ca411aca" />
 

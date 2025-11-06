@@ -25,5 +25,11 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 ## Atividade 4: Interpretação de dados do PowerBI
 
 
+<img width="730" height="563" alt="image" src="https://github.com/user-attachments/assets/bd774fc6-e87c-4f92-9e9d-888a979c3977" />
+
+
+
+
+
 ## Atividade 5: Dashboard com dados Comex 2025 exportação
 

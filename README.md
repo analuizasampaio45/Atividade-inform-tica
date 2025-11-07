@@ -36,5 +36,3 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 
 <img width="622" height="490" alt="image" src="https://github.com/user-attachments/assets/6861ae78-5265-4770-8b98-4678ea06b9d2" />
 
-<img width="976" height="668" alt="image" src="https://github.com/user-attachments/assets/ce754492-b7a7-4b1f-9a0d-7d815d702f00" />
-

@@ -30,6 +30,8 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 
 ## Atividade 5: Dashboard com dados Comex 2025 exportação
 
+<img width="976" height="668" alt="image" src="https://github.com/user-attachments/assets/ce754492-b7a7-4b1f-9a0d-7d815d702f00" />
+
 <https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!LHOf83X770KJtPHPSK7HZhm1rE7K4BRGvxtN6gF2xQsV6rWpGweXQZewBrML1h5O&itemId=01MVMOSHUU3PLTZOOWR5DKEURG5DUQCI4F>
 
 ## Atividade 6: Regressão Linear - Sorvete

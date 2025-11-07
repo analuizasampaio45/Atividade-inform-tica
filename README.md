@@ -38,3 +38,4 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 
 <img width="622" height="490" alt="image" src="https://github.com/user-attachments/assets/6861ae78-5265-4770-8b98-4678ea06b9d2" />
 
+## Atividade 7: Regressão Linear - Anos de experiência e salário

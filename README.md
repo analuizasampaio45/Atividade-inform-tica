@@ -26,9 +26,9 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 
 <https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!LHOf83X770KJtPHPSK7HZhm1rE7K4BRGvxtN6gF2xQsV6rWpGweXQZewBrML1h5O&itemId=01MVMOSHW5R2TC6M24JNCZVNP3JOETNXD3>
 
-<img width="730" height="563" alt="image" src="https://github.com/user-attachments/assets/bd774fc6-e87c-4f92-9e9d-888a979c3977" />
-
 Painel para analisar a soma do valor FOB por estado. Utilizei um gráfico de barras para comparar os valores, um cartão para mostrar o total, e um mapa para visualizar a distribuição geográfica. Também adicionei bandeiras dos estados em uma tabela e filtros interativos para facilitar a análise dos dados.
+
+<img width="730" height="563" alt="image" src="https://github.com/user-attachments/assets/bd774fc6-e87c-4f92-9e9d-888a979c3977" />
 
 ## Atividade 5: Dashboard com dados Comex 2025 exportação
 

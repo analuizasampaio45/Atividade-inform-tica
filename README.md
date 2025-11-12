@@ -36,6 +36,8 @@ Aprendemos que a fórmula =PROCV é usada para procurar um valor específico em 
 
 ## Atividade 6: Regressão Linear - Sorvete
 
-<img width="622" height="490" alt="image" src="https://github.com/user-attachments/assets/6861ae78-5265-4770-8b98-4678ea06b9d2" />
+<img width="825" height="575" alt="image" src="https://github.com/user-attachments/assets/6840a175-0e35-4a65-a292-e75937b5b988" />
+
+<https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20252/Shared%20Documents/General/Ice%20Cream.xlsx?d=w034955c0497c4ac8aed6b58cc3023417&csf=1&web=1&e=J2N94j>
 
 ## Atividade 7: Regressão Linear - Anos de experiência e salário

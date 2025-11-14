@@ -43,3 +43,5 @@ Painel para analisar a soma do valor FOB por estado. Utilizei um gráfico de bar
 <https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20252/Shared%20Documents/General/Ice%20Cream.xlsx?d=w034955c0497c4ac8aed6b58cc3023417&csf=1&web=1&e=J2N94j>
 
 ## Atividade 7: Regressão Linear - Anos de experiência e salário
+
+<img width="1259" height="582" alt="image" src="https://github.com/user-attachments/assets/ba0ba2a0-0837-4a29-9bd6-76d14b876b81" />
